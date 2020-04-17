@@ -1,0 +1,29 @@
+[
+    {
+    "question":"what is the capital of Andhra Pradesh?",
+    "choice1":"Chittor",
+    "choice2":"Vishakapatnam",
+    "choice3":"Amaravathi",
+    "choice4":"Rajamundry",
+    "answer":3
+
+},
+{
+    "question":"Who wrote the book Wings of Fire?",
+    "choice1":"Mahatma Gandhi",
+    "choice2":"Abdul Kalam",
+    "choice3":"Rabindranath Tagore",
+    "choice4":"Chetan Bhagat",
+    "answer":2
+   
+},
+{
+    "question":"who was the sultan of Delhi who is reputed to have built the biggest network of canals in India?",
+    "choice1":"Rajia Sultan",
+    "choice2":"Babar",
+    "choice3":"Feroze Shan Tughlaq",
+    "choice4":"Allaudin Khilji",
+    "answer":3
+   
+}
+] 
